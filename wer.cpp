@@ -7,5 +7,6 @@ main()
     p = s1 + 2;
     *p = '0';
     printf("%s",s1);
+    printf("Bidhan Biswas");
     return 0;
 }
